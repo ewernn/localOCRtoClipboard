@@ -2,6 +2,8 @@
 
 Automatically OCR screenshots and copy text to clipboard on macOS. No cloud services, runs 100% locally.
 
+MacOS OCR is grudgingly slow...
+
 ## Quick Setup
 
 ```bash
@@ -14,7 +16,7 @@ That's it! 🎉 Screenshots will be saved to `localOCRtoClipboard/screenshots/`
 
 ## Example
 
-![Example](example.mov)
+![Example](example.mp4)
 
 ## Usage
 
