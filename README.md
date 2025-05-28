@@ -16,7 +16,7 @@ That's it! 🎉 Screenshots will be saved to `localOCRtoClipboard/screenshots/`
 
 ## Example
 
-![Example](example.mp4)
+![Example](example.gif)
 
 ## Usage
 
